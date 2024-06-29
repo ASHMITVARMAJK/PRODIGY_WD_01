@@ -48,7 +48,7 @@ body {
 }
 
 .header {
-    margin-top: 70px; /* Adjust based on the navbar height */
+    margin-top: 70px;
     text-align: center;
     padding: 20px;
 }
@@ -58,7 +58,7 @@ body {
 }
 
 .large-logo {
-    width: 300px; /* Adjust this to make the logo larger */
+    width: 300px;
     height: auto;
     margin: 20px 0;
 }
